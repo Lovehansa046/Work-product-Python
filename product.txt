@@ -1,0 +1,5 @@
+piim, 0.97
+sai, 0.85
+leib, 0.99
+liha,4.5
+vesi,1.2
